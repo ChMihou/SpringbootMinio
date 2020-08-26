@@ -23,6 +23,10 @@ import io.swagger.annotations.ApiOperation;
  * @author : zhengqing
  * @description :
  * @date : 2020/8/16 20:39
+ * 源码博客：
+ * https://blog.csdn.net/qq_38225558/article/details/108047537
+ * Minio文档链接：
+ * https://docs.min.io/docs/
  */
 @RestController
 @RequestMapping("/api/minio")
